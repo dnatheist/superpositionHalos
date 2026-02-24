@@ -8,8 +8,11 @@ This is a simple Jupyter notebook to test if galaxy halos could be neutral hydro
 Features:
 
 •  Input: pick any NGC galaxy from dropdown (or type your own)
+
 •  Tweak: principal quantum number n, coherence scale
+
 •  Output: rotation curve, surface density profile (1/r²), mock halo image
+
 •  Compare to real data—see if quantum hydrogen fits flat curves
 
 Run in Colab or locally. No physics degree needed—just click and watch.
