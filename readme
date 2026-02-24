@@ -26,3 +26,13 @@ PRs welcome. Let’s see if this holds up.# Quantum Hydrogen Superposition Halo 
 Inspired by A.D. Ernest (2001) arXiv:astro-ph/0108319
 
 Run in Colab: [<image-card alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg" ></image-card>](https://colab.research.google.com/drive/1FgOO9A6slAyKVEDW3U4NHk9gmwSkBT8J?usp=sharing)
+
+## 🚀 Quantum Hydrogen Superposition Halo Explorer
+
+**Interactive version (recommended)**  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOURUSERNAME/YOURREPO/blob/main/quantum_halo_toy_model.ipynb)
+
+**GitHub preview note**  
+GitHub cannot display interactive widgets (sliders/dropdowns).  
+You may see a red error banner — **ignore it** and click the blue **Open in Colab** button above.  
+The notebook works in Colab (full interactivity, all 175 SPARC galaxies, live sliders).
