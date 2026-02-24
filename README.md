@@ -23,7 +23,7 @@ If it works… maybe JWST halo spectra are just superposed hydrogen. If not… s
 
 PRs welcome. Let’s see if this holds up.
 
-# Quantum Hydrogen Superposition Halo Toy Model Inspired by A.D. Ernest (2001) arXiv Paper link: https://arxiv.org/pdf/astro-ph/0108319
+Quantum Hydrogen Superposition Halo Toy Model Inspired by A.D. Ernest (2001) arXiv Paper link: https://arxiv.org/pdf/astro-ph/0108319
 
 Run in Colab: [<image-card alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg" ></image-card>](https://colab.research.google.com/drive/1FgOO9A6slAyKVEDW3U4NHk9gmwSkBT8J?usp=sharing)
 
