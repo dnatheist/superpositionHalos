@@ -1,4 +1,4 @@
-##Quantum Hydrogen Galactic Halo Model##
+##Quantum Hydrogen Galactic Halo Model
 Inspired by Alan Ernest’s 2001 arXiv paper: Dark Matter and Galactic Halos - A Quantum Approach
 This is a simple Jupyter notebook to test if galaxy halos could be neutral hydrogen in high-n quantum superposition (no dark matter required).
   *SuperpositionHalos.ipynb is just one: NGC3198
