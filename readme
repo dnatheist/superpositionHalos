@@ -1,6 +1,8 @@
-#Quantum Halo Toy Model#
+##Quantum Halo Toy Model##
 
 Simple Jupyter notebook to test if galaxy halos could be neutral hydrogen in high-n quantum superposition (no dark matter required).
+  *SuperpositionHalos.ipynb is just one: NGC3198
+  *quantum_halo_toy_model.ipynb has drop down for various galaxies and parameters.
 
 Inspired by Alan Ernest’s 2001 arXiv paper: Dark Matter and Galactic Halos - A Quantum Approach
 
